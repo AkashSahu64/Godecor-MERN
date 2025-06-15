@@ -4,6 +4,10 @@
 
 ---
 
+🔗 **Live Demo:** [https://godecor.vercel.app](https://godecor.vercel.app)
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -75,6 +79,14 @@ cd frontend
 npm install
 npm run dev
 ```
+
+---
+
+## 🔜 Upcoming
+
+- Full Integration (Frontend ⇄ Backend)
+
+- SEO Optimization
 
 ---
 
